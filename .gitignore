@@ -1,3 +1,5 @@
+*.env
+
 # Melos
 pubspec_overrides.yaml
 
