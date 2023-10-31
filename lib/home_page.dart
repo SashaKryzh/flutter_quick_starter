@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_quick_starter/widgets/sized_spacer.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key, required this.title});
