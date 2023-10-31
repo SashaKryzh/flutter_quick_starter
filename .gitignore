@@ -1,3 +1,13 @@
+# Melos
+pubspec_overrides.yaml
+
+# FVM
+.fvm/flutter_sdk
+
+# Coverage
+coverage_report/
+full_coverage_test.dart
+
 # Miscellaneous
 *.class
 *.log
