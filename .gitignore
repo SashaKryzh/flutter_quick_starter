@@ -4,7 +4,6 @@
 pubspec_overrides.yaml
 
 # FVM
-.fvm/flutter_sdk
 
 # Coverage
 coverage_report/
@@ -54,3 +53,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# FVM Version Cache
+.fvm/
